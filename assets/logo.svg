@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1240.7 442.8" style="enable-background:new 0 0 1240.7 442.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#002028;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M554.4,204.9v106.2h-42.9v-153c0-16.3,8.8-26.6,22.4-26.6c6.6,0,11.2,2.2,17.3,7.8l107.2,98.7V131.9h42.9V287
+			c0,16.3-9,26.5-22.4,26.5c-6.6,0-11.5-2.2-17.3-7.8L554.4,204.9L554.4,204.9z"/>
+		<path class="st0" d="M810.5,311.1c-51.4,0-89.2-39-89.2-90.4s37.8-86.7,89.2-86.7H855c52.9,0,89.4,35.3,89.4,86.7
+			s-37.5,90.4-89.4,90.4H810.5L810.5,311.1z M855,266.1c26.3,0,44.6-18,44.6-43.1s-18.5-44.1-44.6-44.1h-44.6
+			c-25.3,0-44.1,18.8-44.1,44.1s18.3,43.1,44.1,43.1H855z"/>
+		<path class="st0" d="M1085,258.3l-21.4,41.2c-5.1,9.7-13.6,14.1-22.9,14.1c-9.7,0-18-4.6-23.1-14.1L928.6,134h53.8l59.9,115.9
+			l20-35.3l-41.4-80.6h54.1l55.3,115.9l59.9-115.9h50.4l-88.9,165.4c-5.1,9.5-13.4,14.1-23.1,14.1s-18-4.4-22.9-14.1L1085,258.3
+			L1085,258.3z"/>
+	</g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="222.615" x2="255.78" y2="222.615" gradientTransform="matrix(1 0 0 -1 0 444)">
+			<stop  offset="0" style="stop-color:#00AF9A"/>
+			<stop  offset="1" style="stop-color:#002028"/>
+		</linearGradient>
+		<polygon class="st1" points="255.8,289.7 255.8,289.7 105.6,350.8 255.8,90.8 255.8,90.8 255.8,0 255.8,0 0,442.8 255.8,338.8 
+			255.8,338.8 		"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="255.78" y1="222.615" x2="511.56" y2="222.615" gradientTransform="matrix(1 0 0 -1 0 444)">
+			<stop  offset="0" style="stop-color:#00AF9A"/>
+			<stop  offset="1" style="stop-color:#002028"/>
+		</linearGradient>
+		<polygon class="st2" points="255.8,289.7 255.8,289.7 406,350.8 255.8,90.8 255.8,90.8 255.8,0 255.8,0 511.6,442.8 255.8,338.8 
+			255.8,338.8 		"/>
+	</g>
+</g>
+</svg>
